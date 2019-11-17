@@ -1,0 +1,60 @@
+
+word: pajama
+number of tries: 4
+player: hhh
+score: 0
+
+word: banjo
+number of tries: 5
+player: r
+score: 60
+
+word: fjord
+number of tries: 5
+player: ggg
+score: 100
+
+word: zigzag
+number of tries: 8
+player: alex
+score: 76
+
+word: numbskull
+number of tries: 14
+player: aaaaa
+score: 135
+
+word: memento
+number of tries: 6
+player: aaaaaa
+score: 99
+
+word: numbskull
+number of tries: 18
+player: qwerty
+score: 129
+
+word: yacht
+number of tries: 9
+player: olga
+score: 96
+
+word: fishhook
+number of tries: 7
+player: fish
+score: 119
+
+word: rhythmic
+number of tries: 9
+player: player 1
+score: 138
+
+word: bagpipes
+number of tries: 9
+player: ffff
+score: 138
+
+word: crypt
+number of tries: 7
+player: ert
+score: 98
